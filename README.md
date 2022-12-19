@@ -1,9 +1,9 @@
 # video_match
 
-# ORIGINAL IMAGE (video 1) 
+# ORIGINAL VIDEO (video 1) 
 https://user-images.githubusercontent.com/96418622/208494372-4c09f2d5-05be-43ee-b938-11d945bc0015.mp4
 
-# ADDED TEXT TO ORIGINAL IMAGE (video 2)
+# ADDED TEXT TO ORIGINAL VIDEO (video 2)
 
 https://user-images.githubusercontent.com/96418622/208494547-89c60f17-68be-4a6d-a381-d43d0e3b8871.mp4
 
